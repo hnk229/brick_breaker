@@ -35,7 +35,7 @@ Flame est un moteur de jeu en 2D basé sur Flutter. Dans cet atelier de programm
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [Ulrich](houenoukpoulrich2@gmail.com) file for details.
 
 ## Screenshots
 
